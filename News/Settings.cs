@@ -7,7 +7,7 @@ namespace News
         {
             get
             {
-                return "<Your API Key>";
+                return "f3e4b107c63f40a985c4c4345c3aadf4";
             }
         }
     }
